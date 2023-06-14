@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
+
+
+#fixed {
+    position: fixed;
+    display: flex;
+}
+
+#selected {
+    color: rgb(56, 118, 29);
+}
+
+#fixed>a {
+    flex: 1;
+    flex-basis: 75px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+nav {
+    background-color: white;
+    color: black;
+    width: 90%;
+    font-size: 30px;
+}
+
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: green;
+}
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    color: rgb(92, 92, 92);
+}
+
+#container {
+    display: flex;
+}
+
+#bigname {
+    padding-top: 200px;
+    padding-left: 200px;
+    padding-right: 150px;
+    font-size: 100px;
+}
+
+body {
+    color: rgb(56, 118, 29);
+    font-family: 'Patua One', sans-serif;
+}
+
+hr {
+    border: rgb(56, 118, 29) solid 2px;
+}
+
+#homeimage {
+    padding-top: 30px;
+}
+
+#linkedingod {
+    position: fixed;
+    left: 5px;
+    bottom: 5px;
+}
+
+#subpagecontainer {
+    display: flex;
+    padding-top: 100px;
+}
+
+
+#subpageheader{
+    font-size: 40px;
+    padding-left: 100px;
+    color: rgb(56, 118, 29);
+    font-family: 'Patua One', sans-serif;
+}
+
+#subpagesubheader{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left:120px;
+    color: black;
+    font-family: 'Patua One', sans-serif;
+}
+
+#subpagetext{
+    font-size: 22px;
+    padding-top: 5px;
+    padding-left: 140px;
+    color: black;
+    font-family: "Raleway", sans-serif;
+    width: 600px;
+}
+
+#shelf {
+    padding-top: 20px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+#shelfitem {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
