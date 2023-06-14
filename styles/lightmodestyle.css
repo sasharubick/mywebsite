@@ -7,7 +7,7 @@
 }
 
 #selected {
-    color: rgb(56, 118, 29);
+    color: rgb(21, 27, 116);
 }
 
 #fixed>a {
@@ -31,7 +31,7 @@ a:visited {
 }
 
 a:active {
-    color: green;
+    color: blue;
 }
 
 a:link {
@@ -54,12 +54,12 @@ a:hover {
 }
 
 body {
-    color: rgb(56, 118, 29);
+    color: rgb(21, 27, 116);
     font-family: 'Patua One', sans-serif;
 }
 
 hr {
-    border: rgb(56, 118, 29) solid 2px;
+    border: rgb(21, 27, 116) solid 2px;
 }
 
 #homeimage {
@@ -81,7 +81,7 @@ hr {
 #subpageheader{
     font-size: 40px;
     padding-left: 100px;
-    color: rgb(56, 118, 29);
+    color: rgb(21, 27, 116);
     font-family: 'Patua One', sans-serif;
 }
 
