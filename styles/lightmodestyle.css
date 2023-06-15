@@ -71,6 +71,15 @@ hr {
     bottom: 5px;
 }
 
+#backdropimage{
+    width: 100%;
+    height: auto;
+}
+
+#backdropheader{ 
+
+}
+
 #subpagecontainer {
     display: flex;
     padding-top: 100px;
